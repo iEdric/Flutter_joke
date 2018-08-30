@@ -2,7 +2,8 @@
 
 随着谷歌大力推广Flutter，故开始开发一款flutter的笑话App，一套代码安卓、iOS两边运行；
 
-![Demo picture](https://raw.githubusercontent.com/your_name/your_project_name/master/test.gif)
+![joke picture](https://github.com/iEdric/Flutter_joke/blob/master/flutter_joke/introduce/output2.gif)
+
 此App用到的技术点：
 
 1；SQL本地存储，增，查
